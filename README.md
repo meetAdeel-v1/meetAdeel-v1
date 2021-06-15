@@ -1,5 +1,14 @@
 ### Hello, folks 👋
 
+My name is Adeel and I am a Software Engineer, here are a few things I'm working on:
+
+- Software Product Design
+- Restful API's
+- Happy Coding
+
+I **love** nerding out about creative coding, so don't hesitate to reach out!
+
+
 <!--
 **meetAdeel-v1/meetAdeel-v1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
