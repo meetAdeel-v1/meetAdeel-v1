@@ -1,12 +1,14 @@
 ### Hello, folks 👋
 
-My name is Adeel and I am a Software Engineer, here are a few things I'm working on:
+My name is Adeel and I am a Software Engineer, here are a few things I love to work on:
 
 - Software Product Design
-- Restful API's
-- Happy Coding
+- Restful Web API's
+- Open Source
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
+
+🌱 **I’m currently exploring .NET 6.0 and Vue.js 3.0**
 
 
 <!--
@@ -15,7 +17,7 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently exploring .NET 6.0 and Vue.js 3.0
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
