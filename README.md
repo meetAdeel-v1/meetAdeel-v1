@@ -4,7 +4,7 @@ My name is Adeel and I am a Software Engineer, here are a few things I love to w
 
 - Software Product Design
 - Restful Web API's
-- Open Source
+- Open Source Enthusiast
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
