@@ -8,7 +8,7 @@ My name is Adeel and I am a Software Engineer, here are a few things I love to w
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-🌱 **I’m currently exploring .NET 6.0 and Vue.js 3.0**
+🌱 **I’m currently exploring .NET 7.0 and .NET MAUI**
 
 
 <!--
