@@ -1,6 +1,6 @@
 ### Hello, folks 👋
 
-My name is Adeel and I am a Software Engineer, here are a few things I love to work on:
+My name is Adeel and I am a Sr. Software Engineer, here are a few things I love to work on:
 
 - Software Product Design
 - Restful Web API's
