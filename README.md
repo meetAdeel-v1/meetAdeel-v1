@@ -8,7 +8,7 @@ My name is Adeel and I am a Sr. Software Engineer, here are a few things I love 
 
 
 
-🌱 **I’m currently exploring .NET 7.0 and .NET MAUI**
+🌱 **I’m currently exploring .NET 8.0 and .NET MAUI**
 
 
 
